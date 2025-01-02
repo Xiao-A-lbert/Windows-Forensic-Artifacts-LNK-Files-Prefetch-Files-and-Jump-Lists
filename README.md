@@ -1,0 +1,1 @@
+# Windows-Forensic-Artifacts-LNK-Files-Prefetch-Files-and-Jump-Lists
